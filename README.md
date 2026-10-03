@@ -420,7 +420,7 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for more informati
 
 <div align="center">
 
-**Built by [Avnish Kumar](https://github.com/theavnishkumar)**
+**Built by [Devansh Upadhyay]([https://github.com/theavnishkumar](https://www.linkedin.com/in/devansh-upadhyay-22758a316/))**
 
 If this project helped you, consider giving it a ⭐
 
